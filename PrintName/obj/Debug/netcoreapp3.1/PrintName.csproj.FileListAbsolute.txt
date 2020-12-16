@@ -1,0 +1,13 @@
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\bin\Debug\netcoreapp3.1\PrintName.exe
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\bin\Debug\netcoreapp3.1\PrintName.deps.json
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\bin\Debug\netcoreapp3.1\PrintName.runtimeconfig.json
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\bin\Debug\netcoreapp3.1\PrintName.runtimeconfig.dev.json
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\bin\Debug\netcoreapp3.1\PrintName.dll
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\bin\Debug\netcoreapp3.1\PrintName.pdb
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\obj\Debug\netcoreapp3.1\PrintName.csprojAssemblyReference.cache
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\obj\Debug\netcoreapp3.1\PrintName.AssemblyInfoInputs.cache
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\obj\Debug\netcoreapp3.1\PrintName.AssemblyInfo.cs
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\obj\Debug\netcoreapp3.1\PrintName.csproj.CoreCompileInputs.cache
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\obj\Debug\netcoreapp3.1\PrintName.dll
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\obj\Debug\netcoreapp3.1\PrintName.pdb
+C:\Users\jae_a\Documents\FirstCSharpGitProject\PrintName\obj\Debug\netcoreapp3.1\PrintName.genruntimeconfig.cache
